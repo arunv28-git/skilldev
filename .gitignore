@@ -4,6 +4,13 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# Environment files
+.env
+
+# Local application properties (if needed)
+src/main/resources/application.properties
+
+
 ### STS ###
 .apt_generated
 .classpath
